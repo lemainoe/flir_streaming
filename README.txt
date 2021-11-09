@@ -1,5 +1,3 @@
---------------------- README ----------------------
-
 The Flir_github python script is a programm allowing the user to stream the video from the Flir Lepton 3.5 and to record a timelapse in a tif file. 
 First, it asks which videosource you want to select. If there is a camera integrated to the computer, this camera is 0 and the Lepton 3.5 is the number 1. Then it opens a new window where the video is streamed.
 
