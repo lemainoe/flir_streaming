@@ -3,6 +3,6 @@ First, it asks which videosource you want to select. If there is a camera integr
 
 The different libraries are written at the beginning of the script. I used a conda environment and Python 3.8.
 
-IMPORTANT! In order to run the code, the following files must be in the same folder : LeptonUVC.dll, ManagedIR16Filters.dll, TIFFfile.dll*
+IMPORTANT! In order to run the code, the following files must be in the same folder : LeptonUVC.dll, ManagedIR16Filters.dll, TIFFfile.dll
 
 I recommand creating an application using pyinstaller once your configurations optimized.
